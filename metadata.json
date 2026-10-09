@@ -1,0 +1,8 @@
+{
+  "name": "BusGo – Bus Ticket Booking System",
+  "description": "Modern, interactive bus ticket booking platform with route search, seat selection, simulated checkout, and downloadable e-tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
