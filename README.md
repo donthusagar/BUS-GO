@@ -58,4 +58,4 @@ BUS-GO/
 
 Project Name: BUS-GO – Bus Ticket Booking System
 Developer: DONTHU SAGARNETHA
-GitHub: "Your GitHub Profile" (https://github.com/donthusagar)
+GitHub: "GitHub Profile" (https://github.com/donthusagar)
